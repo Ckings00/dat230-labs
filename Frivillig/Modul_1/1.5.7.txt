@@ -1,0 +1,61 @@
+Step 1:
+List the intermediary device categories.
+Answer: Routers, Switches, Hubs, Wireless Devices, Security, WAN Emulation
+(Wireless Router, LAN Switch, Router, Multilayer Switch, Firewall Appliance, Ethernet Hub)
+
+Without entering into the internet cloud or intranet cloud, how many icons in the topology represent endpoint 
+devices (only one connection leading to them)?
+Answer: 15
+
+Without counting the two clouds, how many icons in the topology represent intermediary devices (multiple 
+connections leading to them)?
+Answer: 12
+
+How many end devices are not desktop computers?
+Answer: 8
+
+How many different types of media connections are used in this network topology?
+Answer: 6
+
+
+Step 2:
+a) Based on your studies so far, explain the client-server model.
+Answer: 
+
+b) List at least two functions of intermediary devices.
+Answer: Regenerate and retransmit communication signals
+Maintain information about what pathways exist through the network and internetwork
+Notify other devices of errors and communicaton failures
+Direct data along alternate pathways when there is a link fault
+Classify and direct messages accordingto priorities
+Permit or deny the flow of data, based on security settings.
+
+c) List at least two criteria for choosing a network media type.
+Answer: What is the maximum distance that the media can successfully carry a signal?
+What is the environment in which the media will be installed?
+What is the amount of data and at what speed must it be transmitted?
+What is the cost of the media and installation?
+
+
+Step 3:
+a) Explain the difference between a LAN and a WAN. Give examples of each.
+Answer: LAN (Local Area Network) vs WAN (Wide Area Network). LAN are a localized are of network usually consisting
+of computers in the same building. WAN is more widespread. Where several LAN's are connected to each other. 
+
+b) In the Packet Tracer network, how many WANs do you see?
+Answer: 1
+
+c) How many LANs do you see?
+Answer: 3
+
+d) The internet in this Packet Tracer network is overly simplified and does not represent the structure and 
+form of the real internet. Briefly describe the internet.
+Answer: The network of networks.
+
+e) What are some of the common ways a home user connects to the internet?
+Answer: Wirelessly, through a cable. Either via WIFI or via an ethernet cable. All going through an ISP (Internet Service Provider)
+
+f) What are some common methods that businesses use to connect to the internet in your area?
+Answer: All going through an ISP or SP (Service Provider). Can be connected through a DLL (Dedicated Leased Line) or a SDSL (Symmetric Digital Subscriber Line).
+Perhaps through Metro Ethernet
+
