@@ -1,0 +1,24 @@
+How far have I come?
+Modul 2.3
+
+
+
+
+Moduler:						|Done Y/N?	|
+1	Networking Today				|Y (1)		|
+2	Basic Switch and End Device Configuration	|N (2) 	2.3	|
+3	Protocols and Models				|N (3)		|
+4	Physical Layer					|N (4)		|
+5	Number Systems					|N (5)		|
+6	Data Link Layer					|N (6)		|
+7	Ethernet Switching				|N (7)		|
+8	Network Layer					|N (8)		|
+9	Address Resolution				|N (9)		|
+10	Basic Router Configuration			|N (10)		|
+11	Ipv4 Addressing					|N (11)		|
+12	Ipv6 Addressing					|Y (12)		|
+13	ICMP						|N (13)		|
+14	Transport Layer					|N (14)		|
+15	Application Layer				|N (15)		|
+16	Network Security Fundamentals			|N (16)		|
+17	Build a Small Network				|N (17)		|
