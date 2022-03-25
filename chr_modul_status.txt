@@ -1,14 +1,14 @@
 How far have I come?
-Modul 2.3
+Modul 3.0
 
 
 
 
 Moduler:						|Done Y/N?	|
 1	Networking Today				|Y (1)		|
-2	Basic Switch and End Device Configuration	|N (2) 	2.3	|
-3	Protocols and Models				|N (3)		|
-4	Physical Layer					|N (4)		|
+2	Basic Switch and End Device Configuration	|Y (2) 		|
+3	Protocols and Models				|Y (3)	3.0	|
+4	Physical Layer					|Y (4)		|
 5	Number Systems					|N (5)		|
 6	Data Link Layer					|N (6)		|
 7	Ethernet Switching				|N (7)		|
@@ -19,6 +19,14 @@ Moduler:						|Done Y/N?	|
 12	Ipv6 Addressing					|Y (12)		|
 13	ICMP						|N (13)		|
 14	Transport Layer					|N (14)		|
-15	Application Layer				|N (15)		|
-16	Network Security Fundamentals			|N (16)		|
+15	Application Layer				|Y (15)		|
+16	Network Security Fundamentals			|N (16)	16.4.3	|
 17	Build a Small Network				|N (17)		|
+
+1	Basic Device Configuration			|N (1)		|
+2	Switching Concepts				|N (2)		|
+3	VLANs						|N (3)		|
+4	Inter-VLAN Routing				|N (4)		|
+7	DHCPv4						|N (7)		|
+8	SLAAC and DHCPv6				|N (8)		|
+9	FHRP Concepts					|N (9)		|
