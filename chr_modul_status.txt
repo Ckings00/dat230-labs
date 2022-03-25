@@ -7,9 +7,9 @@ Modul 3.0
 Moduler:						|Done Y/N?	|
 1	Networking Today				|Y (1)		|
 2	Basic Switch and End Device Configuration	|Y (2) 		|
-3	Protocols and Models				|Y (3)	3.0	|
+3	Protocols and Models				|Y (3)		|
 4	Physical Layer					|Y (4)		|
-5	Number Systems					|N (5)		|
+5	Number Systems					|Y (5)		|
 6	Data Link Layer					|N (6)		|
 7	Ethernet Switching				|N (7)		|
 8	Network Layer					|N (8)		|
@@ -20,7 +20,7 @@ Moduler:						|Done Y/N?	|
 13	ICMP						|N (13)		|
 14	Transport Layer					|N (14)		|
 15	Application Layer				|Y (15)		|
-16	Network Security Fundamentals			|N (16)	16.4.3	|
+16	Network Security Fundamentals			|Y (16)		|
 17	Build a Small Network				|N (17)		|
 
 1	Basic Device Configuration			|N (1)		|
