@@ -25,7 +25,7 @@ Moduler:						|Done Y/N?	|
 
 1	Basic Device Configuration			|N (1)		|
 2	Switching Concepts				|N (2)		|
-3	VLANs						|N (3)		|
+3	VLANs						|N (3)	3.3.3	|
 4	Inter-VLAN Routing				|N (4)		|
 7	DHCPv4						|N (7)		|
 8	SLAAC and DHCPv6				|N (8)		|
