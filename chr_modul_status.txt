@@ -10,11 +10,11 @@ Moduler:						|Done Y/N?	|
 3	Protocols and Models				|Y (3)		|
 4	Physical Layer					|Y (4)		|
 5	Number Systems					|Y (5)		|
-6	Data Link Layer					|N (6)		|
-7	Ethernet Switching				|N (7)		|
-8	Network Layer					|N (8)		|
-9	Address Resolution				|N (9)		|
-10	Basic Router Configuration			|N (10)		|
+6	Data Link Layer					|Y (6)		|
+7	Ethernet Switching				|Y (7)		|
+8	Network Layer					|Y (8)		|
+9	Address Resolution				|Y (9)		|
+10	Basic Router Configuration			|Y (10)		|
 11	Ipv4 Addressing					|N (11)		|
 12	Ipv6 Addressing					|Y (12)		|
 13	ICMP						|N (13)		|
@@ -25,8 +25,8 @@ Moduler:						|Done Y/N?	|
 
 1	Basic Device Configuration			|N (1)		|
 2	Switching Concepts				|N (2)		|
-3	VLANs						|N (3)	3.3.3	|
-4	Inter-VLAN Routing				|N (4)		|
+3	VLANs						|Y (3)		|
+4	Inter-VLAN Routing				|Y (4)		|
 7	DHCPv4						|N (7)		|
 8	SLAAC and DHCPv6				|N (8)		|
 9	FHRP Concepts					|N (9)		|
